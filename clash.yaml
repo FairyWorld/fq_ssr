@@ -141,20 +141,13 @@ proxies:
     type: http
     sni: zebpay.site
   - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 07"
-    port: 443
-    server: goedkoopgeluid.icu
-    skip-cert-verify: true
-    sni: goedkoopgeluid.icu
-    tls: true
-    type: http
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 08"
     port: 9002
     server: 138.199.35.195
     skip-cert-verify: true
     tls: true
     type: http
     udp: true
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 09"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 08"
     password: 'null'
     port: 9002
     server: 138.199.35.211
@@ -163,7 +156,7 @@ proxies:
     type: http
     username: 'null'
   - encryption: none
-    name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 10"
+    name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 09"
     network: tcp
     port: 52683
     server: jp.sofast.live
@@ -172,7 +165,7 @@ proxies:
     uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
     xudp: true
     client-fingerprint: chrome
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 11"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 10"
     password: ''
     port: 9002
     server: 138.199.35.212
@@ -181,20 +174,20 @@ proxies:
     type: http
     udp: true
     username: ''
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 12"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 11"
     port: 9002
     server: 138.199.35.215
     skip-cert-verify: true
     tls: true
     type: http
     udp: true
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 13"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 12"
     port: 9002
     server: 138.199.35.202
     skip-cert-verify: true
     tls: true
     type: http
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 14"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 13"
     password: None
     port: 9002
     server: 138.199.35.219
@@ -203,18 +196,18 @@ proxies:
     tls: true
     type: http
     udp: true
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 15"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 14"
     port: 442
     server: 54.235.192.64
     type: http
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 16"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 15"
     port: 9002
     server: 138.199.35.207
     skip-cert-verify: true
     tls: true
     type: http
     udp: true
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 17"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 16"
     password: ''
     port: 9443
     server: 38.95.111.226
@@ -223,7 +216,7 @@ proxies:
     type: http
     udp: true
     username: ''
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 18"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 17"
     password: ''
     port: 9002
     server: 138.199.35.196
@@ -231,7 +224,7 @@ proxies:
     tls: true
     type: http
     username: ''
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 19"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 18"
     password: ''
     port: 9002
     server: 138.199.35.203
@@ -240,7 +233,7 @@ proxies:
     type: http
     username: ''
   - client-fingerprint: qq
-    name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 20"
+    name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 19"
     network: ws
     port: 443
     server: cos-cdn-g.alicdn.win
@@ -252,13 +245,13 @@ proxies:
         Host: mms-static-origin-e.hzedu.men
       path: /newlogin/login.do
     servername: mms-statlc-61uzul-e.hzedu.men
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 21"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 20"
     password: test123
     port: 1080
     server: 104.168.249.36
     type: socks5
     username: test123
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 22"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 21"
     network: tcp
     port: 58011
     server: us22.sofast.live
@@ -267,7 +260,7 @@ proxies:
     uuid: 0afc6426-606c-48e7-bd70-3c424a416842
     xudp: true
     client-fingerprint: chrome
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 23"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 22"
     port: 9002
     server: 138.199.35.205
     skip-cert-verify: true
@@ -275,7 +268,7 @@ proxies:
     tls: true
     type: http
     udp: true
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 24"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 23"
     password: None
     port: 9002
     server: 138.199.35.220
@@ -283,7 +276,7 @@ proxies:
     sub_tag: noCache
     tls: true
     type: http
-  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 25"
+  - name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 24"
     password: None
     port: 443
     server: kimberlymilano.icu
@@ -293,7 +286,7 @@ proxies:
     type: http
   - client-fingerprint: firefox
     flow: xtls-rprx-vision
-    name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 26"
+    name: "\U0001F1FA\U0001F1F8 机场推荐:dafei.de 美国 25"
     network: tcp
     port: 443
     reality-opts:
