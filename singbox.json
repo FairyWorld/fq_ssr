@@ -985,6 +985,14 @@
     },
     {
       "tag": "🇺🇸 机场推荐:dafei.de 美国 05",
+      "type": "shadowsocks",
+      "server": "121.46.230.232",
+      "server_port": 65443,
+      "method": "aes-256-cfb",
+      "password": "7eadc6dbe2ae"
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 06",
       "type": "http",
       "server": "berniesbodybla.fun",
       "server_port": 443,
@@ -994,14 +1002,6 @@
         "insecure": false
       },
       "password": "None"
-    },
-    {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 06",
-      "type": "shadowsocks",
-      "server": "121.46.230.232",
-      "server_port": 65443,
-      "method": "aes-256-cfb",
-      "password": "7eadc6dbe2ae"
     },
     {
       "tag": "🇺🇸 机场推荐:dafei.de 美国 07",
